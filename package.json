@@ -1,0 +1,8 @@
+{
+  "scripts": {
+    "format": "prettier-eslint --write \"*.js\""
+  },
+  "devDependencies": {
+    "prettier-eslint-cli": "^3.0.1"
+  }
+}
